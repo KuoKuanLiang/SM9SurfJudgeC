@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Para>
+  <judgeMachineNo>P01</judgeMachineNo>
+  <paraParaFiles>\\192.168.0.69\paraFile\ParaFile-P.XML</paraParaFiles>
+  <pgsqlHost>60.249.7.157</pgsqlHost>
+  <detectorZ>-17628</detectorZ>
+  <pgsqlport>54329</pgsqlport>
+  <cutoffweight>0.075</cutoffweight>
+</Para>

@@ -1,0 +1,17 @@
+paraFile-S.XML
+<?xml version="1.0"?>
+<para>
+    <judgeMachineNo>P01</judgeMachineNo>
+    <paraParaFileS>\\192.168.0.69\paraFile\paraFile-P.XML</paraParaFileS>
+    <pgsqlHost>192.168.0.69</pgsqlHost>
+</para>
+
+paraFile-P.XML
+<?xml version="1.0"?>
+<para>
+    <STD>ISO1997</STD>
+    <N>5</N>
+    <L>0.1in</L>
+    <LS>1000uin</LS>
+    <RULE>嚴謹</RULE>
+</para>
